@@ -50,6 +50,7 @@ body{
 .container .item{
     position: relative;
     background: white;
+    border-radius: 30px;
 }
 .container .item img{
     position: absolute;
